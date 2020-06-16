@@ -1,5 +1,4 @@
-# FROM osrf/ros:melodic-desktop-full
-FROM ros:melodic-rotors-full
+FROM osrf/ros:melodic-desktop-full
 
 # nvidia-container-runtime
 ENV NVIDIA_VISIBLE_DEVICES all
